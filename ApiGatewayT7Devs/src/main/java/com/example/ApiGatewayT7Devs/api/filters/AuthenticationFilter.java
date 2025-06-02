@@ -1,4 +1,4 @@
-package com.example.ApiGatewayT7Devs.filters;
+package com.example.ApiGatewayT7Devs.api.filters;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

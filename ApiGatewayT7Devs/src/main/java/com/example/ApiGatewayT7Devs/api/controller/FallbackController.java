@@ -1,4 +1,4 @@
-package com.example.ApiGatewayT7Devs.controller;
+package com.example.ApiGatewayT7Devs.api.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

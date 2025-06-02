@@ -1,4 +1,4 @@
-package com.example.ApiGatewayT7Devs.filters;
+package com.example.ApiGatewayT7Devs.api.filters;
 
 import org.springframework.cloud.gateway.filter.GatewayFilter;
 import org.springframework.cloud.gateway.filter.factory.AbstractGatewayFilterFactory;

@@ -1,4 +1,4 @@
-package com.example.ApiGatewayT7Devs.api.config;
+package com.example.ApiGatewayT7Devs.api.model.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

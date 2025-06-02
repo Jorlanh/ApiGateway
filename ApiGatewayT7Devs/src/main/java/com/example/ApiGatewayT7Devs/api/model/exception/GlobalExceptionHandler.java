@@ -1,4 +1,4 @@
-package com.example.ApiGatewayT7Devs.exception;
+package com.example.ApiGatewayT7Devs.api.model.exception;
 
 import org.springframework.boot.web.reactive.error.ErrorWebExceptionHandler;
 import org.springframework.http.HttpStatus;

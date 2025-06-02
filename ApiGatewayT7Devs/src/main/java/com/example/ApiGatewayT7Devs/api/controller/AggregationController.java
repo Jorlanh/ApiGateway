@@ -1,4 +1,4 @@
-package com.example.ApiGatewayT7Devs.controller;
+package com.example.ApiGatewayT7Devs.api.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
